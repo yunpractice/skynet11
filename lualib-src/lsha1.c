@@ -7,7 +7,7 @@ By Steve Reid <sreid@sea-to-sky.net>
 Modified 7/98
 By James H.	Brown <jbrown@burgoyne.com>
 Still 100% Public Domain
-
+ee
 Corrected a	problem	which generated	improper hash values on	16 bit machines
 Routine	SHA1Update changed from
 	void SHA1Update(SHA1_CTX* context, unsigned	char* data,	unsigned int
